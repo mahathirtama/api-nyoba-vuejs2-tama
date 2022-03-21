@@ -1,0 +1,207 @@
+{
+  "best-anime": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Origin Anime",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "best-anime-1.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Origin Anime",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "best-anime-2.jpeg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Sword Meiden",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "best-anime-3.jpg"
+    }
+  ],
+  "anime": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Origin Anime",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "best-anime-1.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Origin Anime",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "best-anime-2.jpeg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Sword Meiden",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "best-anime-3.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Sword Meiden",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "best-anime-7.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Sword Meiden",
+      "harga": 13000,
+      "is_ready": true,
+      "gambar": "best-anime-8.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Sword Meiden",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "best-anime-9.jpg"
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "Sword Meiden",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "best-anime-10.jpg"
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "nama": "Sword Meiden",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "best-anime-11.jpg"
+    },
+    {
+      "id": 9,
+      "kode": "K-09",
+      "nama": "Sword Meiden",
+      "harga": 18000,
+      "is_ready": true,
+      "gambar": "best-anime-12.jpg"
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": [
+    {
+      "nama": "tama",
+      "Jumlah_carts": [
+        {
+          "jumlah_order": "2",
+          "alamat": "jalan hj cebeng",
+          "anime": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Sword Meiden",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "best-anime-3.jpg"
+          },
+          "id": 1
+        }
+      ],
+      "id": 1
+    },
+    {
+      "nama": "datta",
+      "Jumlah_carts": [
+        {
+          "jumlah_order": "2",
+          "alamat": "jalan hj cebeng",
+          "anime": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Sword Meiden",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "best-anime-3.jpg"
+          },
+          "id": 1
+        },
+        {
+          "jumlah_order": "2",
+          "alamat": "icang",
+          "anime": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Origin Anime",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "best-anime-2.jpeg"
+          },
+          "id": 2
+        }
+      ],
+      "id": 2
+    },
+    {
+      "nama": "tama",
+      "Jumlah_carts": [
+        {
+          "jumlah_order": "3",
+          "alamat": "rumah",
+          "anime": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Origin Anime",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "best-anime-2.jpeg"
+          },
+          "id": 1
+        },
+        {
+          "jumlah_order": "3",
+          "alamat": "tama",
+          "anime": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Sword Meiden",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "best-anime-3.jpg"
+          },
+          "id": 2
+        }
+      ],
+      "id": 3
+    },
+    {
+      "nama": "tama",
+      "Jumlah_carts": [
+        {
+          "jumlah_order": "33",
+          "alamat": "tama",
+          "anime": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Sword Meiden",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "best-anime-3.jpg"
+          },
+          "id": 1
+        }
+      ],
+      "id": 4
+    }
+  ]
+}
